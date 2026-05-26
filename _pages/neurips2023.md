@@ -4,13 +4,13 @@ order: 1
 permalink: /
 title: NeurIPS Workshop 2026
 # redirect_from: /index.html
-desc_title: Machine Learning in the Loop for Decision Making and Discovery @ NeurIPS 2026
+desc_title: Machine Learning in the Loop for Decision Making and Discovery
 description: <strong>... We need a slogan here... like "The Good, the Bad and the Ugly" </strong> - and the discroption follows....
 social: true
 ---
 
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
-<td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
+<td style="text-align:justify"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
 Current advances in artificial intelligence (AI) offer breakthrough  capabilities in many areas and real-world applications. However, in many cases, it is not enough to let AI or ML systems be autonomous predictors. Instead, they should be embedded within broader processes of decision-making and discovery, where they can interact with human expertise, account for uncertainty, and align with downstream objectives in ways that complement and extend human capabilities.
 
