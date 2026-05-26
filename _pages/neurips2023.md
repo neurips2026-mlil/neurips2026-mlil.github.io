@@ -4,8 +4,8 @@ order: 1
 permalink: /
 title: NeurIPS Workshop 2026
 # redirect_from: /index.html
-desc_title: Machine Learning in the Loop for Decision Making and Discovery
-description: <strong>... We need a slogan here... like "The Good, the Bad and the Ugly" </strong> - and the discroption follows....
+desc_title: <strong>Machine Learning in the Loop</strong> 
+description: <strong>for Decision Making and Discovery</strong>
 social: true
 ---
 
@@ -21,25 +21,25 @@ The key open challenges include understanding (1) when and how humans should int
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
-### Topics of Interests
+### **Topics of Interests**
 
-#### Human-AI Collaborations in the Domains:
+#### **Human-AI Collaborations in the Domains:**
 - Chemistry, biology, physics, astronomy and other sciences 
 - Sustainability, manufacturing 
 - Arts, social sciences, and creative collaboration
 - Applications of agentic AI
 
-#### Human-in-the-loop Generative AI
+#### **Human-in-the-loop Generative AI**
 - Diffusion, Flow-matching, Autoregressive Models 
 - Multi agent systems
 
-#### Experimental Design for Collaborative Decision-Making
+#### **Experimental Design for Collaborative Decision-Making**
 - Amortized methods for scalable and time-efficient systems 
 - Decision-making under uncertainty, optimization, and active learning
 - LLMs and Generative AI methods as surrogates in experimental design.
 - Synthetic data, simulation-based design, and real-world deployment challenges.
 
-#### User modeling of mind, behavior, and interaction with AI
+#### **User modeling of mind, behavior, and interaction with AI**
 - Computational and bounded rationality for user models
 - Modeling of human-AI interaction (e.g., with game theory)
 - Reinforcement learning and control
