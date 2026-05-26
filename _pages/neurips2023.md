@@ -2,24 +2,50 @@
 layout: home
 order: 1
 permalink: /
-title: Workshop 2023
+title: NeurIPS Workshop 2026
 # redirect_from: /index.html
-desc_title: Backdoors in Deep Learning @ NeurIPS 2023
-description: <strong>The Good, the Bad and the Ugly</strong> - Modern AI development requires using and sharing of models and data safely. Uncovering backdoor, a foe and a friend at the front door.
+desc_title: Machine Learning in the Loop for Decision Making and Discovery @ NeurIPS 2026
+description: <strong>... We need a slogan here... like "The Good, the Bad and the Ugly" </strong> - and the discroption follows....
 social: true
 ---
 
 <!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
 <td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
-Deep neural networks (DNNs) are revolutionizing almost all AI domains and have become the core of many modern AI systems. Despite their superior performance compared to classical methods, DNNs also face new security problems, such as adversarial and backdoor attacks, that are hard to discover and resolve due to their black-box-like property. Backdoor attacks are possible because of insecure model pretraining and outsourcing practices. Due to the complexity and the tremendous cost of collecting data and training models, many individuals/companies employ models or training data from third parties. Malicious third parties can add backdoors into their models or poison their released data before delivering it to the victims to gain illegal benefits. This threat seriously damages the safety and trustworthiness of AI development.
+Current advances in artificial intelligence (AI) offer breakthrough  capabilities in many areas and real-world applications. However, in many cases, it is not enough to let AI or ML systems be autonomous predictors. Instead, they should be embedded within broader processes of decision-making and discovery, where they can interact with human expertise, account for uncertainty, and align with downstream objectives in ways that complement and extend human capabilities.
 
-While most works consider backdoors “evil”, some studies leverage them for good purposes. A popular approach is to use the backdoor as a watermark to detect illegal uses of commercialized data/models. Watermarks can also be used to mark generated data, which becomes crucial with the introduction of big generative models (LLMs, text-to-image generators). For instance, the paper “A Watermark for Large Language Models” has received an outstanding paper award at ICML 2023, showing the community’s great interest in this critical topic. Besides, a few works employ the backdoor as a trapdoor for adversarial defense. Learning the underlying working mechanisms of backdoors also elevates our understanding of how deep learning models work.
-This workshop is designed to provide a comprehensive understanding of the current state of backdoor research. Our goal is to foster discussion and perspective exchange, as well as to engage the community in identifying social good applications of backdoors.
+Developing rigorous foundations for such machine-learning-in-the-loop systems requires bridging advances in ML with studies of human cognition, behavior, and decision-making. This is especially important in settings where decisions unfold sequentially, feedback is delayed, and human intervention can shape the learning process. Despite rapid progress in generative AI, active learning, Bayesian optimization, reinforcement learning, and experimental design, these fields remain nascent in terms of the theoretical foundations, methodological frameworks, and practical implementation strategies for integrating ML systems into collaborative decision-making and discovery.
+
+The key open challenges include understanding (1) when and how humans should intervene, (2) how ML systems should model human behavior for decision-making and discovery, (3) how collaborative systems should quantify and communicate uncertainty to support reliable downstream decision-making, and (4) how such systems can be evaluated in real-world settings. Therefore, this workshop aims to gather interdisciplinary dialogue on the foundations, methods, and applications of machine learning in the loop, with a focus on bringing human expertise, downstream objectives, and uncertainty into decision-making and discovery.
 
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
+### Topics of Interests
+
+#### Human-AI Collaborations in the Domains:
+- Chemistry, biology, physics, astronomy and other sciences 
+- Sustainability, manufacturing 
+- Arts, social sciences, and creative collaboration
+- Applications of agentic AI
+
+#### Human-in-the-loop Generative AI
+- Diffusion, Flow-matching, Autoregressive Models 
+- Multi agent systems
+
+#### Experimental Design for Collaborative Decision-Making
+- Amortized methods for scalable and time-efficient systems 
+- Decision-making under uncertainty, optimization, and active learning
+- LLMs and Generative AI methods as surrogates in experimental design.
+- Synthetic data, simulation-based design, and real-world deployment challenges.
+
+#### User modeling of mind, behavior, and interaction with AI
+- Computational and bounded rationality for user models
+- Modeling of human-AI interaction (e.g., with game theory)
+- Reinforcement learning and control
+- Multi-agent models and systems
+- Theory of mind and other interdisciplinary contributions
+
 ### Schedule
 
 ⭐ **Link to NeurIPS page: [https://neurips.cc/virtual/2023/workshop/66550](https://neurips.cc/virtual/2023/workshop/66550)** ⭐
