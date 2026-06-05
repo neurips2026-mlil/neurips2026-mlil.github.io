@@ -5,7 +5,8 @@ permalink: /
 title: NeurIPS Workshop 2026
 # redirect_from: /index.html
 desc_title: <strong>Machine Learning in the Loop</strong> 
-description: <strong>for Decision Making and Discovery</strong>
+description: <strong>for Decision Making and Discovery</strong> 
+  -- a workshop on building principled Machine Learning-in-the-loop systems that integrate human expertise, uncertainty, and downstream objectives into decision-making and discovery. 
 social: true
 ---
 
