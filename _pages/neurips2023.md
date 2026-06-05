@@ -6,7 +6,7 @@ title: NeurIPS Workshop 2026
 # redirect_from: /index.html
 desc_title: <strong>Machine Learning in the Loop</strong> 
 description: <strong>for Decision Making and Discovery</strong> 
-  -- a workshop on building principled Machine Learning-in-the-loop systems that integrate human expertise, uncertainty, and downstream objectives into decision-making and discovery. 
+  -- a workshop on building principled Machine Learning-in-the-Loop systems that integrate human expertise, uncertainty, and downstream objectives into decision-making and discovery. 
 social: true
 ---
 
@@ -46,3 +46,18 @@ The key open challenges include understanding (1) when and how humans should int
 - Reinforcement learning and control
 - Multi-agent models and systems
 - Theory of mind and other interdisciplinary contributions
+
+### Speakers
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola.jpeg" height="170" width="170"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT (tentative) </td>
+  </tr>
+</table>
