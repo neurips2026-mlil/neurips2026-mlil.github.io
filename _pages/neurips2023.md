@@ -54,12 +54,19 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><img src="assets/img/speaker-anna_scaife.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola.jpeg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-max-welling.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester</td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=iswtssoAAAAJ&hl=fr&oi=ao">Andrew Howes</a> <br> Professor, University of Exeter</td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT (tentative) </td>
+  </tr>
+
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-max-welling.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>
+  </tr>
+  <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=8200InoAAAAJ&hl=fr&oi=sra">Max Welling</a> <br> Professor, University of Amsterdam </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=YJnPv6kAAAAJ&hl=en">Ola Engqvist</a> <br> Head Molecular AI, AstraZeneca; Adjunct Professor, Chalmers University of Technology </td>
   </tr>
 </table>
