@@ -76,3 +76,41 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford <strong>(tentative)</strong> </td>
   </tr>
 </table>
+
+### Organizers 
+
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee.jpg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar.jpg" height="150" width="150"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Professor, Aalto University and University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester</td>
+    <td style="text-align:center"><a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> <br>University of Manchester</td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin.jpeg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-atrisha-sarkar.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-yongliang-yang.jpg" height="150"  width="150"></td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br>University of Manchester</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en">Atrisha Sarkar</a> <br>Assistant Professor, Western University</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=smwQtUwAAAAJ&hl=en">Yongliang Yang</a> <br>Associate Professor, University of Science & Technology Beijing </td>
+  </tr>
+</table>
+
+
+### Organizers affiliations
+
+<table style="width:100%; align: left; border: none; spacing: none">
+  <tr style="border: none; spacing: none"> 
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="40"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uwo.ca"><img src="assets/img/inst-western-univ.jpg" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="40"></a></td>
+  </tr>
+</table>
