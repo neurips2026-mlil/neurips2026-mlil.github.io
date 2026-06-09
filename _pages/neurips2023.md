@@ -67,7 +67,7 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska.png" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola.jpeg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech <strong>(confirmed)</strong></td>    
@@ -83,8 +83,8 @@ The key open challenges include understanding (1) when and how humans should int
 <table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="assets/img/org-samuel-kaski.jpg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee.jpg" height="150"  width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-jaeyoung-lee-square.jpg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Professor, Aalto University and University of Manchester </td>
@@ -92,9 +92,9 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin.jpeg" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-atrisha-sarkar.png" height="150" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-yongliang-yang.jpg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-atrisha-sarkar-square.png" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-yongliang-yang-square.jpg" height="150"  width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br>University of Manchester</td>
