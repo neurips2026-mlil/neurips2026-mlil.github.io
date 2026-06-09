@@ -64,7 +64,7 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
 
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-nataša-tagasovska.png" height="170" width="170"></td>    
+    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska.png" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola.jpeg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh.png" height="170" width="170"></td>
@@ -89,7 +89,7 @@ The key open challenges include understanding (1) when and how humans should int
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Professor, Aalto University and University of Manchester </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester</td>
-    <td style="text-align:center"><a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> <br>University of Manchester</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/org-dmitry-kangin.jpeg" height="150" width="150"></td>
