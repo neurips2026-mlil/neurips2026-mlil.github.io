@@ -51,9 +51,9 @@ The key open challenges include understanding (1) when and how humans should int
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-andrew-howes.jpeg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-max-welling.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-max-welling-square.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-ola-engkvist.jpg" height="170" width="170"></td>
   </tr>
   <tr>
@@ -64,9 +64,9 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
 
   <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska.png" height="170" width="170"></td>    
+    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>    
-    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola.jpeg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola-square.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
   </tr>
   <tr>
@@ -108,9 +108,9 @@ The key open challenges include understanding (1) when and how humans should int
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="40"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uwo.ca"><img src="assets/img/inst-western-univ.jpg" height="40"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.ai-fun.manchester.ac.uk"><img src="assets/img/inst-umanchester.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="100"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.uwo.ca"><img src="assets/img/inst-western-univ.jpg" height="100"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="100"></a></td>
   </tr>
 </table>
