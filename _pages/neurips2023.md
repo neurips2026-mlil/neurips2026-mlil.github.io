@@ -46,7 +46,7 @@ The key open challenges include understanding (1) when and how humans should int
 - Multi-agent models and systems
 - Theory of mind and other interdisciplinary contributions
 
-### Program Schedule
+### **Program Schedule**
 
 |----------------------|---------------------------------------------------------|---------------------------------------------------------------------------------------|
 | Start Time (CET/GMT+01:00, Paris)  |  Session                                                 | Speaker(s)                                                                            |
@@ -74,7 +74,7 @@ The key open challenges include understanding (1) when and how humans should int
 | 04:15 pm | **Panel Discussion**  |  |
 | 05:00 pm   | Closing Remarks                                                                        | Organizers    | 
 
-### Speakers
+### **Speakers**
 
 <table style="width:100%">
   <tr>
@@ -104,7 +104,7 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
 </table>
 
-### Panelists
+### **Panelists**
 
 <table style="width:100%">
   <tr>
@@ -123,7 +123,7 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
 </table>
 
-### Organizers 
+### **Organizers** 
 
 
 <table style="width:100%">
@@ -150,7 +150,7 @@ The key open challenges include understanding (1) when and how humans should int
 </table>
 
 
-### Organizers Affiliations
+### **Organizers Affiliations**
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
