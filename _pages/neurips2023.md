@@ -5,8 +5,7 @@ permalink: /
 title: NeurIPS Workshop 2026
 # redirect_from: /index.html
 desc_title: <strong>Machine Learning in the Loop</strong> 
-description: <strong>for Decision Making and Discovery:</strong> 
-   a workshop on building principled Machine Learning-in-the-Loop systems that integrate human expertise, uncertainty, and downstream objectives into decision-making and discovery. 
+description: <strong>for Decision Making and Discovery</strong> 
 social: true
 ---
 
@@ -30,17 +29,17 @@ The key open challenges include understanding (1) when and how humans should int
 - Arts, social sciences, and creative collaboration
 - Applications of agentic AI
 
-#### **Human-in-the-loop Generative AI**
+#### **Human-in-The-Loop Generative AI**
 - Diffusion, Flow-matching, Autoregressive Models 
-- Multi agent systems
+- Multi-agent systems and applications
 
-#### **Experimental Design for Collaborative Decision-Making**
+#### **Experimental Design, Decision Theory, and Game Theory for Collaborative Decision-Making**
 - Amortized methods for scalable and time-efficient systems 
-- Decision-making under uncertainty, optimization, and active learning
-- LLMs and Generative AI methods as surrogates in experimental design.
+- Decision-making under uncertainty, optimization, game theory, and active learning
+- LLMs and generative AI methods as surrogates in experimental design.
 - Synthetic data, simulation-based design, and real-world deployment challenges.
 
-#### **User modeling of mind, behavior, and interaction with AI**
+#### **User Modeling of Mind, Behavior, and Interaction with AI**
 - Computational and bounded rationality for user models
 - Modeling of human-AI interaction (e.g., with game theory)
 - Reinforcement learning and control
@@ -73,7 +72,7 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech <strong>(confirmed)</strong></td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en">Charlotte Bunne</a> <br> Assistant Professor, EPFL <strong>(confirmed)</strong></td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(tentative)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford <strong>(tentative)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor at University of Oxford, Research Director at Google DeepMind <strong>(tentative)</strong> </td>
   </tr>
 </table>
 
@@ -87,7 +86,7 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Professor, Aalto University and University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Aalto University and University of Manchester </td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester</td>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester</td>
   </tr>
@@ -98,8 +97,8 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br>University of Manchester</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en">Atrisha Sarkar</a> <br>Assistant Professor, Western University</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=smwQtUwAAAAJ&hl=en">Yongliang Yang</a> <br>Associate Professor, University of Science & Technology Beijing </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en">Atrisha Sarkar</a> <br>Western University</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=smwQtUwAAAAJ&hl=en">Yongliang Yang</a> <br>University of Science & Technology Beijing </td>
   </tr>
 </table>
 
@@ -112,5 +111,24 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="100"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.uwo.ca"><img src="assets/img/inst-western-univ.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="100"></a></td>
+  </tr>
+</table>
+
+### Panelists
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td> 
+    <td style="width:150pt"> </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech </td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td>
   </tr>
 </table>
