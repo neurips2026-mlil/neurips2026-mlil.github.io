@@ -100,7 +100,7 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech <strong>(confirmed)</strong></td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en">Charlotte Bunne</a> <br> Assistant Professor, EPFL <strong>(confirmed)</strong></td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(tentative)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor at University of Oxford, Research Director at Google DeepMind <strong>(tentative)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford & Research Director, Google DeepMind <strong>(tentative)</strong> </td>
   </tr>
 </table>
 
