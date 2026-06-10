@@ -104,6 +104,25 @@ The key open challenges include understanding (1) when and how humans should int
   </tr>
 </table>
 
+### Panelists
+
+<table style="width:100%">
+  <tr>
+    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td> 
+    <td style="width:150pt"> </td>
+  </tr>
+  <tr>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech </td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td>
+    <td style="width:150pt"> </td>
+  </tr>
+</table>
+
 ### Organizers 
 
 
@@ -131,7 +150,7 @@ The key open challenges include understanding (1) when and how humans should int
 </table>
 
 
-### Organizers affiliations
+### Organizers Affiliations
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
@@ -139,24 +158,5 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.aalto.fi/en/department-of-computer-science"><img src="assets/img/inst-aalto-univ.jpg" height="100"></a></td>  
     <td style="text-align:center; border: none; spacing: none"><a href="https://www.uwo.ca"><img src="assets/img/inst-western-univ.jpg" height="100"></a></td>
     <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="100"></a></td>
-  </tr>
-</table>
-
-### Panelists
-
-<table style="width:100%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>
-    <td style="width:150pt"> </td>
-    <td style="width:150pt"> </td> 
-    <td style="width:150pt"> </td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech </td>
-    <td style="width:150pt"> </td>
-    <td style="width:150pt"> </td>
-    <td style="width:150pt"> </td>
   </tr>
 </table>
