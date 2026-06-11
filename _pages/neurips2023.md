@@ -136,3 +136,31 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center; border: none; spacing: none"><a href="http://www.ustb.edu.cn"><img src="assets/img/inst-univ-scitech-beijing.png" height="100"></a></td>
   </tr>
 </table>
+
+### **Program Committee Members**
+
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=RKC-MCUAAAAJ&hl=en">Majid Abdolshah</a>, Amazon, Australia, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=C1YpEWsAAAAJ&hl=en">Srijith P.K.</a>,IIT Hyderabad, India, <br></td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=0UTNLh8AAAAJ&hl=en">Harm van Seijen</a>, Sony AI, Canada, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=k79dKw4AAAAJ&hl=en">Xenofon Evangelopoulos</a>, University of Liverpool, UK, <br></td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=O5OU_kUAAAAJ&hl=en">Dung Nguyen</a>, Deakin University, Australia, </td> 
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=2togGHoAAAAJ&hl=zh-CN">Daolang Huang</a>, Aalto University, Finland, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=TipbNkkAAAAJ&hl=en">Yihong Chen</a>, University of Oxford, UK, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=KIvRCsoAAAAJ&hl=en">Min Wu</a>, Stanford University, USA, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=nFMAQmIAAAAJ&hl=en">Renzi Wang</a>, IMT School for Advanced Studies, Italy, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=DFyIzcoAAAAJ">Julien Martinelli</a>, Aalto University, Finland, <br> </td>
+<td style="text-align:left"><a href="https://www.linkedin.com/in/gaijinliu-gangmei-490643151/">Gaijinliu Gangmei</a>, IIT Hyderabad, India, </td> 
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=BUqNLqcAAAAJ">Xingyuan Zhang</a>, University of Manchester, UK, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=H1aGQoQAAAAJ&hl=en">Buu Phan Truong</a>, University of Toronto, Canada, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=S9PwnMYAAAAJ">Santu Rana</a>, Deakin University, Australia, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=v-4mhZkAAAAJ">Xinyu Zhang</a>, Aalto University, Finland, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=Fi4N3dwAAAAJ">Yasir Barlas</a>, University of Manchester, UK, <br> </td>
+<td style="text-align:left"><a href="https://www.linkedin.com/in/harry-findlay/">Harry Findlay</a>, University of Exeter, UK </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=v3-hy24AAAAJ">Thommen Karimpanal</a>, Deakin University, Austrailia, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=dp4sbbkAAAAJ">Yifan Zhu</a>, Aalto University, Finland, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=NZmmHacAAAAJ">Sammie Katt</a>, Aalto University, Finland, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=ynyPc1kAAAAJ&hl=en">Abhi Gupta</a>, MIT, USA, </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=7zorqlMAAAAJ&hl=en">Manisha Dubey</a>, University of Edinburgh, UK, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en&oi=ao">Sabina Sloman</a>, University of Birmingham, UK, </td>
+<td style="text-align:left"><a href="https://www.linkedin.com/in/pollinab/">Polina Barabanschikova</a>, Aalto University, Finland, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=xxp2We8AAAAJ&hl=en">Sebastiaan De Peuter</a>, University of Amsterdam, Netherlands </td>
