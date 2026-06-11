@@ -68,15 +68,15 @@ The key open challenges include understanding (1) when and how humans should int
 
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>    
-    <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>    
-    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola-square.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech <strong>(confirmed)</strong></td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en">Charlotte Bunne</a> <br> Assistant Professor, EPFL <strong>(confirmed)</strong></td>    
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(tentative)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford & Research Director, Google DeepMind <strong>(tentative)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en">Charlotte Bunne</a> <br> Assistant Professor, EPFL <strong>(confirmed)</strong></td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford & Research Director, Google DeepMind <strong>(confirmed)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(confirmed conditionally)</strong> </td>
   </tr>
 </table>
 
