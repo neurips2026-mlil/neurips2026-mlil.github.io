@@ -86,9 +86,9 @@ The key open challenges include understanding (1) when and how humans should int
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker-anna_scaife-square.jpg" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>
-    <td style="width:150pt"> </td>
-    <td style="width:150pt"> </td> 
-    <td style="width:150pt"> </td>
+    <td style="text-align:center"><img src="assets/img/anonymous.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/anonymous.png" height="170" width="170"></td> 
+    <td style="text-align:center"><img src="assets/img/anonymous.png" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=2BeLFVwAAAAJ&hl=en">Anna Scaife</a> <br> Professor, University of Manchester </td>
