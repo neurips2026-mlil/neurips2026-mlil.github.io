@@ -48,7 +48,7 @@ The key open challenges include understanding (1) when and how humans should int
 
 ### **Program Schedule**
 
-<img src="assets/img/program-schedule.jpg" height="250">
+<img src="assets/img/program-schedule.jpg" height="300">
 
 ### **Speakers**
 
@@ -69,14 +69,14 @@ The key open challenges include understanding (1) when and how humans should int
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker-natasa-tagasovska-square.png" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-charlotte-bunne.jpg" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola-square.jpg" height="170" width="170"></td>    
     <td style="text-align:center"><img src="assets/img/speaker-yee-why-teh-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-tommi-jaakkola-square.jpg" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=S2ZUSL0AAAAJ">Nataša Tagasovska</a> <br> Director of Frontier Research, Genentech <strong>(confirmed)</strong></td>    
     <td style="text-align:center"><a href="https://scholar.google.com/citations?user=U80atIAAAAAJ&hl=en">Charlotte Bunne</a> <br> Assistant Professor, EPFL <strong>(confirmed)</strong></td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford & Research Director, Google DeepMind <strong>(confirmed)</strong> </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(confirmed conditionally)</strong> </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=fr&oi=sra">Tommi Jaakkola</a> <br> Professor, MIT <strong>(tentative)</strong> </td>    
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=y-nUzMwAAAAJ&hl=en">Yee Whye Teh</a> <br> Professor, University of Oxford & Research Director, Google DeepMind <strong>(tentative)</strong> </td>
   </tr>
 </table>
 
@@ -156,7 +156,7 @@ The key open challenges include understanding (1) when and how humans should int
 <td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=v-4mhZkAAAAJ">Xinyu Zhang</a>, Aalto University, Finland, </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=Fi4N3dwAAAAJ">Yasir Barlas</a>, University of Manchester, UK, <br> </td>
 <td style="text-align:left"><a href="https://www.linkedin.com/in/harry-findlay/">Harry Findlay</a>, University of Exeter, UK </td>
-<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=v3-hy24AAAAJ">Thommen Karimpanal</a>, Deakin University, Austrailia, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=v3-hy24AAAAJ">Thommen Karimpanal</a>, Deakin University, Australia, <br> </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=dp4sbbkAAAAJ">Yifan Zhu</a>, Aalto University, Finland, </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?hl=en&user=NZmmHacAAAAJ">Sammie Katt</a>, Aalto University, Finland, <br> </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?user=ynyPc1kAAAAJ&hl=en">Abhi Gupta</a>, MIT, USA, </td>
@@ -164,5 +164,7 @@ The key open challenges include understanding (1) when and how humans should int
 <td style="text-align:left"><a href="https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en&oi=ao">Sabina Sloman</a>, University of Birmingham, UK, </td>
 <td style="text-align:left"><a href="https://www.linkedin.com/in/pollinab/">Polina Barabanschikova</a>, Aalto University, Finland, <br> </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?user=xxp2We8AAAAJ&hl=en">Sebastiaan De Peuter</a>, University of Amsterdam, Netherlands </td>
-<td style="text-align:left"><a href="https://scholar.google.com/citations?user=J4FYcjAAAAAJ&hl=en">Vahdat Abdelzad</a>, Voikswagen, USA, <br> </td>
-<td style="text-align:left"><a href="https://scholar.google.com/citations?user=DDxCaIsAAAAJ&hl=en">Dylan R. Ashley</a>, Dalle Molle Institute for AI Research, Switzerland </td>
+
+[//]: # (<td style="text-align:left"><a href="https://scholar.google.com/citations?user=J4FYcjAAAAAJ&hl=en">Vahdat Abdelzad</a>, Voikswagen, USA, <br> </td>)
+
+[//]: # (<td style="text-align:left"><a href="https://scholar.google.com/citations?user=DDxCaIsAAAAJ&hl=en">Dylan R. Ashley</a>, Dalle Molle Institute for AI Research, Switzerland </td>)
