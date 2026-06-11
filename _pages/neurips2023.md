@@ -109,9 +109,9 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Aalto University and University of Manchester </td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=uF6H9jMAAAAJ&hl=en">Samuel Kaski</a> <br>Aalto University and University of Manchester, UK </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Zh7PeGUAAAAJ&hl=en&oi=sra">Jaeyoung Lee</a> <br>University of Manchester, UK</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?hl=en&user=50ErN80AAAAJ">Haripriya Harikumar</a> <br>University of Manchester, UK</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/org-dmitry-kangin-square.jpg" height="150" width="150"></td>
@@ -119,9 +119,9 @@ The key open challenges include understanding (1) when and how humans should int
     <td style="text-align:center"><img src="assets/img/org-yongliang-yang-square.jpg" height="150"  width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br>University of Manchester</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en">Atrisha Sarkar</a> <br>Western University</td>
-    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=smwQtUwAAAAJ&hl=en">Yongliang Yang</a> <br>University of Science & Technology Beijing </td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=vv-leaMAAAAJ&hl=en">Dmitry Kangin</a> <br>University of Manchester, UK</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=Yj62hNYAAAAJ&hl=en">Atrisha Sarkar</a> <br>Western University, Canada</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=smwQtUwAAAAJ&hl=en">Yongliang Yang</a> <br>University of Science & Technology Beijing, China </td>
   </tr>
 </table>
 
