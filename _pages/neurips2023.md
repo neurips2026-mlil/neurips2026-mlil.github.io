@@ -164,3 +164,5 @@ The key open challenges include understanding (1) when and how humans should int
 <td style="text-align:left"><a href="https://scholar.google.com/citations?user=eRBM_UcAAAAJ&hl=en&oi=ao">Sabina Sloman</a>, University of Birmingham, UK, </td>
 <td style="text-align:left"><a href="https://www.linkedin.com/in/pollinab/">Polina Barabanschikova</a>, Aalto University, Finland, <br> </td>
 <td style="text-align:left"><a href="https://scholar.google.com/citations?user=xxp2We8AAAAJ&hl=en">Sebastiaan De Peuter</a>, University of Amsterdam, Netherlands </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=J4FYcjAAAAAJ&hl=en">Vahdat Abdelzad</a>, Voikswagen, USA, <br> </td>
+<td style="text-align:left"><a href="https://scholar.google.com/citations?user=DDxCaIsAAAAJ&hl=en">Dylan R. Ashley</a>, Dalle Molle Institute for AI Research, Switzerland </td>
