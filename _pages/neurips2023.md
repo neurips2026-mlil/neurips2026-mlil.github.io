@@ -48,7 +48,76 @@ The key open challenges include understanding (1) when and how humans should int
 
 ### **Program Schedule**
 
-<img src="assets/img/program-schedule.jpg" height="300">
+<table style="border-collapse: collapse; width: 100%; border-top: 2px solid black; border-bottom: 2px solid black;">
+    <thead>
+        <tr style="text-align: center; border-bottom: 1px solid black;">
+            <th colspan="2">Morning Session</th>
+            <th colspan="2" style="border-left: 4px double black;">Afternoon Session</th>
+        </tr>
+        <tr style="border-bottom: 1px solid black;">
+            <th style="padding: 8px; text-align: center;">Time</th>
+            <th style="padding: 8px; text-align: center; border-left: 1px solid black;">Event</th>
+            <th style="padding: 8px; text-align: center; border-left: 4px double black;">Time</th>
+            <th style="padding: 8px; text-align: center; border-left: 1px solid black;">Event</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 4px 8px;">8:45</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Introduction (15 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">13:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Contributed talk 2 (15 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">9:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 1 (30 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">13:15</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Contributed talk 3 (15 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">9:30</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 2 (30 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">13:30</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 5 (30 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">10:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Coffee break (30 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">14:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 6 (30 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">10:30</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 3 (30 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">14:30</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Coffee break (30 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">11:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Contributed talk 1 (15 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">15:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Poster session (45 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">11:15</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 4 (30 mins)</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">15:45</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Invited talk 7 (30 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;">11:45</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Lunch break</td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">16:15</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Panel discussion (45 mins)</td>
+        </tr>
+        <tr>
+            <td style="padding: 4px 8px;"></td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;"></td>
+            <td style="padding: 4px 8px; border-left: 4px double black;">17:00</td>
+            <td style="padding: 4px 8px; border-left: 1px solid black;">Concluding remarks (10 mins)</td>
+        </tr>
+    </tbody>
+</table>
 
 ### **Speakers**
 
